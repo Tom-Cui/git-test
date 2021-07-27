@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("push-test");
         System.out.println("pull-test1");
         System.out.println("pull-test2");
+        System.out.println("github更新");
     }
 
 }
